@@ -1,0 +1,220 @@
+/* 
+  Localizable.strings
+  VBell
+
+  Created by Jose Zhu on 16/8/12.
+  Copyright © 2016年 Jose Zhu. All rights reserved.
+*/
+"My Device" = "My Device";
+
+"All Calls" = "All Calls";
+
+"Incoming" = "Incoming";
+
+"Outgoing" = "Outgoing";
+
+"Device Info" = "Device Info";
+
+"ACCOUNT" = "ACCOUNT";
+
+"NAME" = "NAME";
+
+"NUMBER" = "NUMBER";
+
+"Make Call" = "Make Call";
+
+"RTSP" = "RTSP";
+
+"History" = "History";
+
+"Delete" = "Delete";
+
+"Hangup" = "Hangup";
+
+"Mute" = "Mute";
+
+"RingBack" = "RingBack";
+
+"Talking" = "Talking";
+
+"SETTINGS" = "SETTINGS";
+
+"Account" = "Account";
+
+"Audio" = "Audio";
+
+"Video" = "Video";
+
+"Advance" = "Advance";
+
+"DEVELOPER" = "DEVELOPER";
+
+"Export Log" = "Export Log";
+
+"About" = "About";
+
+"Basic" = "Basic";
+
+"Register" = "Register";
+
+"User Name" = "User Name";
+
+"Password" = "Password";
+
+"Display Name" = "Display Name";
+
+"Server URL" = "Server URL";
+
+"Server Port" = "Server Port";
+
+"Proxy" = "Proxy";
+
+"Outbound Proxy" = "Outbound Proxy";
+
+"Proxy Server URL" = "Proxy Server URL";
+
+"Proxy Server Prot" = "Proxy Server Prot";
+
+"Codec Settings" = "Codec Settings";
+
+"Audio Codec" = "Audio Codec";
+
+"Video Codec" = "Video Codec";
+
+"More" = "More";
+
+"Hide" = "Hide";
+
+"Save" = "Save";
+
+
+
+"Enable" = "Enable";
+
+"Name" = "Name";
+
+"Payload" = "Payload";
+
+"Solution" = "Solution";
+
+"Bitrate" = "Bitrate";
+
+"Echo CanCellation" = "Echo CanCellation";
+
+"Echo Canceller" = "Echo Canceller";
+
+"CNG" = "CNG";
+
+"Auto Gain Control" = "Auto Gain Control";
+
+"AGC(Sending-side)" = "AGC(Sending-side)";
+
+"AGC(Receving-side)" = "AGC(Receving-side)";
+
+"AGC Target(1-20dB)" = "AGC Target(1-20dB)";
+
+"IP Direct Video Preview" = "IP Direct Video Preview";
+
+"IP Direct Video Resolution" = "IP Direct Video Resolution";
+
+"Caching(100-5000ms)" = "Caching(100-5000ms)";
+
+"Media Feedback" = "Media Feedback";
+
+"Other Settings" = "Other Settings";
+
+"Color Enhancement" = "Color Enhancement";
+
+"Image Quality" = "Image Quality";
+
+"Low" = "Low";
+
+"Middle" = "Middle";
+
+"High" = "High";
+
+"General Level" = "General Level";
+
+"Log Level" = "Log Level";
+
+"Account Manager" = "Account Manager";
+
+"Audio Settings" = "Audio Settings";
+
+"Video Settings" = "Video Settings";
+
+"Advance Settings" = "Advance Settings";
+
+"Export Log" = "Export Log";
+
+"About" = "About";
+
+"Exit" = "Exit";
+
+"RingBack" = "RingBack";
+
+"Hangup" = "Hangup";
+
+"Talking..." = "Talking...";
+
+"Mute" = "Mute";
+
+"RingBack" = "RingBack";
+
+"Cancel" = "Cancel";
+
+"OK" = "OK";
+
+
+
+"General Settings" = "General Settings";
+
+"Display Name" = "Display Name";
+
+"Device Number" = "Device Number";
+
+"Call Features" = "Call Features";
+
+"Unlock" = "Unlock";
+
+"Video Preview" = "Video Preview";
+
+"RTSP Enable" = "RTSP Enable";
+
+"Use RTSP in InComing" = "Use RTSP in InComing";
+
+"Use RTSP in Audio Talk" = "Use RTSP in Audio Talk";
+
+"Audio Enable" = "Audio Enable";
+
+"Video Enable" = "Video Enable";
+
+"Account" = "Account";
+
+"Register Name" = "Register Name";
+
+"User Name" = "User Name";
+
+"Password" = "Password";
+
+"Server URL" = "Server URL";
+
+"Server Port" = "Server Port";
+
+"Modify Account" = "Modify Account";
+
+"Modify Device" = "Modify Device";
+
+"Add Device" = "Add Device";
+
+"Accept" = "Accept";
+
+"Registered" = "Registered";
+
+"Registering" = "Registering";
+
+"Failed" = "Failed";
+
+"Disabled" = "Disabled";
+
+

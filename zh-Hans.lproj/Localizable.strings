@@ -1,0 +1,210 @@
+/* 
+  Localizable.strings
+  VBell
+
+  Created by Jose Zhu on 16/8/12.
+  Copyright © 2016年 Jose Zhu. All rights reserved.
+*/
+"My Device" = "我的设备";
+
+"All Calls" = "所有通话";
+
+"Incoming" = "来电";
+
+"Outgoing" = "去电";
+
+"Device Info" = "设备信息";
+
+"ACCOUNT" = "账号";
+
+"NAME" = "名称";
+
+"NUMBER" = "号码";
+
+"Make Call" = "呼叫";
+
+"RTSP" = "RTSP";
+
+"History" = "历史记录";
+
+"Delete" = "删除";
+
+"Hangup" = "挂断";
+
+"Mute" = "静音";
+
+"RingBack" = "响铃";
+
+"Talking" = "通话";
+
+"SETTINGS" = "设置";
+
+"Audio" = "音频";
+
+"Video" = "视频";
+
+"Advance" = "高级";
+
+"DEVELOPER" = "开发者";
+
+"Export Log" = "导出日志";
+
+"About" = "关于";
+
+"Basic" = "基础";
+
+"Register" = "注册名称";
+
+"User Name" = "用户名称";
+
+"Password" = "密码";
+
+"Display Name" = "显示名称";
+
+"Server URL" = "服务器地址";
+
+"Server Port" = "服务器端口";
+
+"Proxy" = "代理";
+
+"Outbound Proxy" = "外部代理";
+
+"Proxy Server URL" = "代理服务器地址";
+
+"Proxy Server Prot" = "代理服务器端口";
+
+"Codec Settings" = "编解码设置";
+
+"Audio Codec" = "音频编解码";
+
+"Video Codec" = "视频编解码";
+
+"More" = "更多";
+
+"Hide" = "隐藏";
+
+"Save" = "保存";
+
+"Enable" = "启用";
+
+"Name" = "名称";
+
+"Payload" = "负载";
+
+"Solution" = "分辨率";
+
+"Bitrate" = "比特率";
+
+"Echo CanCellation" = "回音消除";
+
+"Echo Canceller" = "回音消除器";
+
+"CNG" = "舒适噪音";
+
+"Auto Gain Control" = "自动增益控制";
+
+"AGC(Sending-side)" = "自动增益控制(发送端)";
+
+"AGC(Receving-side)" = "自动增益控制(接收端)";
+
+"AGC Target(1-20dB)" = "自动增益控制目标(1-20dB)";
+
+"IP Direct Video Preview" = "IP直播视频预览";
+
+"IP Direct Video Resolution" = "IP直播视频分辨率";
+
+"Caching(100-5000ms)" = "缓冲(100-5000ms)";
+
+"Media Feedback" = "媒体反馈";
+
+"Other Settings" = "其他设置";
+
+"Color Enhancement" = "颜色增强";
+
+"Image Quality" = "图像质量";
+
+"Low" = "低";
+
+"Middle" = "中";
+
+"High" = "高";
+
+"General Level" = "通用设置";
+
+"Log Level" = "日志等级";
+
+"Account Manager" = "账号";
+
+"Audio Settings" = "音频";
+
+"Video Settings" = "视频";
+
+"Advance Settings" = "高级";
+
+"Export Log" = "导出日志";
+
+"About" = "关于";
+
+"Exit" = "退出";
+
+"RingBack" = "响铃";
+
+"Hangup" = "挂断";
+
+"Talking..." = "通话中...";
+
+"Mute" = "静音";
+
+"Cancel" = "取消";
+
+"OK" = "确认";
+
+"General Settings" = "通用设置";
+
+"Display Name" = "显示名称";
+
+"Device Number" = "设备号码";
+
+"Call Features" = "通话功能";
+
+"Unlock" = "解锁";
+
+"Video Preview" = "视频预览";
+
+"RTSP Enable" = "RTSP开关";
+
+"Use RTSP in InComing" = "在来电时使用RTSP";
+
+"Use RTSP in Audio Talk" = "在音频通话时使用RTSP";
+
+"Audio Enable" = "启用音频";
+
+"Video Enable" = "启用视频";
+
+"Account" = "账号";
+
+"Register Name" = "注册名称";
+
+"User Name" = "用户名称";
+
+"Password" = "密码";
+
+"Server URL" = "服务器地址";
+
+"Server Port" = "服务器端口";
+
+"Modify Account" = "编辑用户";
+
+"Modify Device" = "编辑设备";
+
+"Add Device" = "添加设备";
+
+"Accept" = "接听";
+
+"Registered" = "注册成功";
+
+"Registering" = "注册中";
+
+"Failed" = "注册失败";
+
+"Disabled" = "禁用";

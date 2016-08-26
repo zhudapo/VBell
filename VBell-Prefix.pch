@@ -1,0 +1,24 @@
+//
+//  VBell-Prefix.pch
+//  VBell
+//
+//  Created by Jose Zhu on 16/4/19.
+//  Copyright © 2016年 Jose Zhu. All rights reserved.
+//
+
+#ifndef VBell_Prefix_pch
+#define VBell_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "NSDate+Extension.h"
+#define AGENTVERSION [[NSBundle mainBundle] objectForInfoDictionaryKey:@"CFBundleShortVersionString"]
+
+#define DeviceScreenHeight self.view.bounds.size.height
+#define DeviceScreenWidth self.view.bounds.size.width
+#define UnifiedColor [UIColor colorWithRed:82.0/255.0 green:183.0/255.0 blue:199.0/255.0 alpha:1.0]
+//#define VENDOR_NAME @"Easiio"         //com.easiio.easiiophone
+//#define VBellLocalizedString(key, comment) \
+//[[InternationalControl bundle] localizedStringForKey:(key) value:@"" table:@"i18n"]
+#endif /* VBell_Prefix_pch */
